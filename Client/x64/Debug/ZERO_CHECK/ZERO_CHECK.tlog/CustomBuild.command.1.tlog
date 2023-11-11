@@ -1,0 +1,10 @@
+^C:\USERS\CONNOR\SOURCE\REPOS\WEBSOCKETCHATAPP\CLIENT\CMAKEFILES\2089D84A4F1B0D2AC7DF1186AE6A164E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Connor/source/repos/WebSocketChatApp/Client -BC:/Users/Connor/source/repos/WebSocketChatApp/Client --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Connor/source/repos/WebSocketChatApp/Client/WebSocketChatAppClient.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

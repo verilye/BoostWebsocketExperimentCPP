@@ -1,0 +1,3 @@
+C:/Users/Connor/source/repos/WebSocketChatApp/Server/CMakeFiles/WebSocketChatAppServer.dir
+C:/Users/Connor/source/repos/WebSocketChatApp/Server/CMakeFiles/ALL_BUILD.dir
+C:/Users/Connor/source/repos/WebSocketChatApp/Server/CMakeFiles/ZERO_CHECK.dir

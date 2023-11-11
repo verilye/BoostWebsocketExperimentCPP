@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Connor\source\repos\WebSocketChatApp\Server\CMakeFiles\9a8ba3a3e5f6196e0dc61a281716d228\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B188807C-EC55-31C0-BFCA-C9A3D004172E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
